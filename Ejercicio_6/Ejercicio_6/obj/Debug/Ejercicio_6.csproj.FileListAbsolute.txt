@@ -1,0 +1,8 @@
+C:\Users\Lenovo Ideapad 5\OneDrive\Desktop\Andres Gonzalez\OneDrive\Semestre_2\Programación 2\Archivos C# Segundo Semestre\Ejercicio_6\Ejercicio_6\bin\Debug\Ejercicio_6.exe.config
+C:\Users\Lenovo Ideapad 5\OneDrive\Desktop\Andres Gonzalez\OneDrive\Semestre_2\Programación 2\Archivos C# Segundo Semestre\Ejercicio_6\Ejercicio_6\bin\Debug\Ejercicio_6.exe
+C:\Users\Lenovo Ideapad 5\OneDrive\Desktop\Andres Gonzalez\OneDrive\Semestre_2\Programación 2\Archivos C# Segundo Semestre\Ejercicio_6\Ejercicio_6\bin\Debug\Ejercicio_6.pdb
+C:\Users\Lenovo Ideapad 5\OneDrive\Desktop\Andres Gonzalez\OneDrive\Semestre_2\Programación 2\Archivos C# Segundo Semestre\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.csproj.AssemblyReference.cache
+C:\Users\Lenovo Ideapad 5\OneDrive\Desktop\Andres Gonzalez\OneDrive\Semestre_2\Programación 2\Archivos C# Segundo Semestre\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Ideapad 5\OneDrive\Desktop\Andres Gonzalez\OneDrive\Semestre_2\Programación 2\Archivos C# Segundo Semestre\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.exe
+C:\Users\Lenovo Ideapad 5\OneDrive\Desktop\Andres Gonzalez\OneDrive\Semestre_2\Programación 2\Archivos C# Segundo Semestre\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.pdb
+C:\Users\Lenovo Ideapad 5\OneDrive\Desktop\Andres Gonzalez\OneDrive\Semestre_2\Programación 2\Archivos C# Segundo Semestre\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.exe.config
